@@ -25,7 +25,7 @@ This repository contains SQL case studies demonstrating data analysis and proble
 
 ## Tools Used
 
-* MySQL / PostgreSQL
+* MySQL / SSMS
 * SQL
 
 ## Author
